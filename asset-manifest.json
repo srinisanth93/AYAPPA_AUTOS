@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AYAPPA_AUTOS/static/css/main.5dd3d059.chunk.css",
+    "main.js": "/AYAPPA_AUTOS/static/js/main.9e62cc6f.chunk.js",
+    "main.js.map": "/AYAPPA_AUTOS/static/js/main.9e62cc6f.chunk.js.map",
+    "runtime-main.js": "/AYAPPA_AUTOS/static/js/runtime-main.4460c9c4.js",
+    "runtime-main.js.map": "/AYAPPA_AUTOS/static/js/runtime-main.4460c9c4.js.map",
+    "static/js/2.620040f2.chunk.js": "/AYAPPA_AUTOS/static/js/2.620040f2.chunk.js",
+    "static/js/2.620040f2.chunk.js.map": "/AYAPPA_AUTOS/static/js/2.620040f2.chunk.js.map",
+    "index.html": "/AYAPPA_AUTOS/index.html",
+    "precache-manifest.d8a749cd94fdaa458cc5dd0931c5af3b.js": "/AYAPPA_AUTOS/precache-manifest.d8a749cd94fdaa458cc5dd0931c5af3b.js",
+    "service-worker.js": "/AYAPPA_AUTOS/service-worker.js",
+    "static/css/main.5dd3d059.chunk.css.map": "/AYAPPA_AUTOS/static/css/main.5dd3d059.chunk.css.map",
+    "static/js/2.620040f2.chunk.js.LICENSE.txt": "/AYAPPA_AUTOS/static/js/2.620040f2.chunk.js.LICENSE.txt",
+    "static/media/cart.svg": "/AYAPPA_AUTOS/static/media/cart.8bf1af37.svg",
+    "static/media/close.svg": "/AYAPPA_AUTOS/static/media/close.2c5552a1.svg",
+    "static/media/menu.svg": "/AYAPPA_AUTOS/static/media/menu.b3f49afd.svg",
+    "static/media/undraw_shopping.svg": "/AYAPPA_AUTOS/static/media/undraw_shopping.1e6d4462.svg",
+    "static/media/undraw_vehicle.svg": "/AYAPPA_AUTOS/static/media/undraw_vehicle.605dac86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4460c9c4.js",
+    "static/js/2.620040f2.chunk.js",
+    "static/css/main.5dd3d059.chunk.css",
+    "static/js/main.9e62cc6f.chunk.js"
+  ]
+}
